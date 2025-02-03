@@ -5,6 +5,7 @@ const axios = require("axios");
 const zlib = require("zlib"); // For compression
 var cors = require("cors");
 const app = express();
+
 app.use(express.json());
 app.use(cors());
 
