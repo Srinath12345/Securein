@@ -17,6 +17,8 @@ npm i
 Start the React development server:
 npm run dev
 
+node cronjob.js (to update the database periodically (every 6 hour))
+
 
 Usage
 Once both the backend and frontend are up and running, you can interact with the CVE Management System via the web browser:
