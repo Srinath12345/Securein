@@ -26,7 +26,7 @@ const VulnerabilityDetail = () => {
     const fetchData = async () => {
       try {
         const res = await axios.get(`http://localhost:3000/cvedet/${id}`); // GET request with ID in URL
-
+        
         setCVE(res.data[0]); // Store the response data
         console.log(res.data[0]);
       } catch (err) {

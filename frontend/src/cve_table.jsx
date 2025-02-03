@@ -187,10 +187,7 @@ export default function CVETable() {
               });
               fetchData();
             }}
-            disabled={
-              filters.startindex === 0 ||
-              filters.results_per_page - filters.startindex < 0
-            }
+            disabled={filters.startindex === 0}
           />
 
           <Button
