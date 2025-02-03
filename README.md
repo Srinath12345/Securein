@@ -1,7 +1,7 @@
 Installation
 Clone the repository:
 
-git clone https://github.com/sujansanjeev/securin-assessment-1.git
+git clone https://github.com/Srinath12345/Securein.git
 Navigate to the backend directory:
 
 cd backend
