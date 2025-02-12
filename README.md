@@ -43,6 +43,10 @@ Filter Options Provided
 
 ![image](https://github.com/user-attachments/assets/6333fda7-d33b-486a-a3f1-30662880f402)
 
+Search Bar Provided to Filter be CVE-ID
+
+![image](https://github.com/user-attachments/assets/d8ef1ced-29f4-4fa1-b8c5-3d38d0803aaf)
+
 CVE Details
 
 ![image](https://github.com/user-attachments/assets/d31fb28d-418b-433c-a75c-5cd0726ec0a1)
