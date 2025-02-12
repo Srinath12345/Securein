@@ -35,7 +35,15 @@ CPE (Common Platform Enumeration) data indicating the affected software/hardware
 
 
 output :
+CVE List Table
+
 ![image](https://github.com/user-attachments/assets/2103ed66-022b-4a9e-b268-6705e63d9d87)
+
+Filter Options Provided
+
+![image](https://github.com/user-attachments/assets/6333fda7-d33b-486a-a3f1-30662880f402)
+
+CVE Details
 
 ![image](https://github.com/user-attachments/assets/d31fb28d-418b-433c-a75c-5cd0726ec0a1)
 
